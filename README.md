@@ -1,4 +1,4 @@
-# Spring2019_BI_Proj
+# Spring2019_Business_Intelligence_Proj
 Final project code for my Graduate level Business Intelligence Course
 
 The file sfo-bikes-modified.csv is comprised of 983648 observations of 14 variables. The number of observations represents the total amount of trips.
